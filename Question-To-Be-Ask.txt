@@ -6,4 +6,7 @@ Please Note down the question to be asked for the website development and manage
 
 1. Who is our real client?
 2. Who should we work with to get the basic requirement?
-3. ...
+3. when is the deadline of this project?
+4. Can we use CMS for those websites? or we will work with scratch for that?
+5. Who will be provided the content(content and pictures, etc...) of those websites?
+6. Does our team go directly to the client for reviewing these websites or there is a third party to do this?
