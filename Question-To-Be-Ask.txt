@@ -1,0 +1,9 @@
+
+
+///Question-to-be-ask///
+
+Please Note down the question to be asked for the website development and management.
+
+1. Who is our real client?
+2. Who should we work with to get the basic requirement?
+3. ...
