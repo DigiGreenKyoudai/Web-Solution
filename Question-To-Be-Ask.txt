@@ -32,5 +32,7 @@ ________________________________________________________________________________
  About managing websites
 *************************
 - How often will you be updating the content on your site?
+- Who is responsible when we want to update the anything?
+- Will you provide us pictures and contents or we will find by ourself?
 - 
 
