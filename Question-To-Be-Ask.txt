@@ -8,10 +8,10 @@ ________________________________________________________________________________
 ***************************
 - What is the purpose of each website?
 - Describe your target audience. 
-- What’s the End Goal of the Website?
+- What’s the End Goal of the Websites?
 - Describe the style of the website you want.
-- Do you want your website to be static or responsive?
-- How many pages of content will need to be developed?
+- Do you want your website to be static or dynamic?
+- How many pages of content in one website will we need to be developed?
 - What are the things that you don't want to be on your website?
 - Do you allow users to comment or post something in your website?
 - Do you use it for promotion?
@@ -20,8 +20,8 @@ ________________________________________________________________________________
 - Will you be offering advertising on the site?
 - What are some sites that you like the style of, features, and functionality of?
 - Do you require a database?
-- Who will be provided the content(content and pictures, etc...) of each website?
-- Can we use CMS for those websites? or we will work from scratch for that?
+- Who will provide the content(content and pictures, etc...) of each website?
+- If it is dynamic can we use CMS to assist for those websites or we will work from scratch?
 - Who should we work with to get the basic requirement?
 - Who is our real client?
 - Does our team go directly to the client for reviewing these websites or there is a third party to do this?
@@ -34,5 +34,6 @@ ________________________________________________________________________________
 - How often will you be updating the content on your site?
 - Who is responsible when we want to update the anything?
 - Will you provide us pictures and contents or we will find by ourself?
-- 
+- Will we improve by changing some layouts of the six websites?
+
 
