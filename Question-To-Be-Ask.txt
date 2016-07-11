@@ -9,22 +9,22 @@ ________________________________________________________________________________
 - What is the purpose of each website?
 - Describe your target audience. 
 - What’s the End Goal of the Websites?
-- Describe the style of the website you want.
-- Do you want your website to be static or dynamic?
+- Describe the style of the websites you want.
+- Do you want your websites to be static or dynamic?
 - How many pages of content in one website will we need to be developed?
-- What are the things that you don't want to be on your website?
-- Do you allow users to comment or post something in your website?
-- Do you use it for promotion?
-- Do you use it to attract investor? 
+- What are the things that you don't want to be on your websites?
+- Do you allow users to comment or post something in your websites?
+- Do you use them for promoting?
+- Do you use them to attract investors? 
 - Will you need people to log in on the site either with a username and password or by using social logins?
 - Will you be offering advertising on the site?
 - What are some sites that you like the style of, features, and functionality of?
 - Do you require a database?
 - Who will provide the content(content and pictures, etc...) of each website?
-- If it is dynamic can we use CMS to assist for those websites or we will work from scratch?
-- Who should we work with to get the basic requirement?
-- Who is our real client?
-- Does our team go directly to the client for reviewing these websites or there is a third party to do this?
+- If they are dynamics can we use CMS to assist for those websites or we will work from scratch or free templets?
+- Who should we work with to get the basic requirements?
+- Who are our real clients?
+- Does our team go directly to the clients for reviewing these websites or there is a third party to do this?
 - when is the deadline of each project?
 
 ____________________________________________________________________________________________________________________
@@ -32,8 +32,13 @@ ________________________________________________________________________________
  About managing websites
 *************************
 - How often will you be updating the content on your site?
-- Who is responsible when we want to update the anything?
+- Who is responsible when we want to update anything?
 - Will you provide us pictures and contents or we will find by ourself?
 - Will we improve by changing some layouts of the six websites?
+- what are the important information do you want to know like number of viewer... or something like that?
+- Can we get email admin of each website as well as password of those websites?
+- Who will response for replying back to viewers if in case that they send some feedback or something through email or commants?
+- 
+
 
 
